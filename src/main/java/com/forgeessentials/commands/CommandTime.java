@@ -134,7 +134,7 @@ public class CommandTime extends FEcmdModuleCommands {
             if (args.length == 1)
             {
                 wt.timeSpecified = !wt.timeSpecified;
-                return "Time lock" + (wt.timeSpecified ? "on" : "off");
+                return "Time lock" + (wt.timeSpecified ? " on" : " off");
             }
             else
             {
