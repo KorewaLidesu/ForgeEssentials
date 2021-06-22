@@ -25,9 +25,9 @@ sourceCompatibility = 1.7
 targetCompatibility = 1.7
 
 minecraft {
-    version = "1.6.4-9.11.1.964"
+    version = "1.6.4-9.11.1.1345"
     assetDir = "rundir/assets"
-    ext.forgeVersion = "9.11.1.964"
+    ext.forgeVersion = "9.11.1.1345"
 
     replaceIn "com/forgeessentials/core/preloader/FEModContainer.java"
     replaceIn "com/forgeessentials/client/ForgeEssentialsClient.java"
