@@ -1,8 +1,8 @@
 buildscript {
     repositories {
         maven {
-            name = "forge"
-            url = "https://maven.minecraftforge.net"
+            name = "forge" 
+            url = "https://maven.minecraftforge.net/"
         }
         maven {
             name = "sonatype"
